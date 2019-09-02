@@ -1,0 +1,51 @@
+#container {
+    width: 500px;
+    height: 300px;
+    border: 2px solid rgb(206, 199, 199);
+    box-shadow: 0px -3px 0px 0px #daddde;
+}
+#blockColor {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 2px solid rgb(70, 65, 65);
+    padding: 10px;
+    margin-left: 10px;
+}
+
+#button-block {
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+
+.red {
+    background: red;
+}
+.yellow {
+    background: yellow;
+}
+.orange {
+    background: orange;
+}
+.green {
+    background: green;
+}
+.violet {
+    background: violet;
+}
+.grey {
+    background: grey;
+}
+.blue {
+    background: blue;
+}
+.black {
+    background: black;
+}
+.pink {
+    background: pink;
+}
+.brown {
+    background: brown;
+}
